@@ -16,7 +16,7 @@
 #define TILE_HEIGHT 8
 
 #define MINECOUNT 20
-
+mutex = 0
 typedef enum {
     EventTypeTick,
     EventTypeKey,
